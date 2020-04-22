@@ -1,7 +1,8 @@
 # main links
 main:
   - title: "Home"
-    url: https://jimbo994.github.io/ai4science-markdown/  - title: "Laboratory"
+    url: https://jimbo994.github.io/ai4science-markdown/  
+  - title: "Laboratory"
     url: /laboratory/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
