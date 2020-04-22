@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: /home.md/
   - title: "Laboratory"
     url: /laboratory/
   # - title: "About"
