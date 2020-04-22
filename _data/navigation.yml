@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /home/
+    url: AI4Science/home/
   - title: "Laboratory"
     url: /AI4Science/laboratory/
   # - title: "About"
