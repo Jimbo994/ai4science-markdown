@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Home"
-    url: /home.md/
-  - title: "Laboratory"
+  - title: Home
+    url: /home/
+  - title: Laboratory
     url: /laboratory/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
