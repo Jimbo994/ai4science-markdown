@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://jimbo994.github.io/ai4science-markdown/  
+    url: /home/
   - title: "Laboratory"
     url: /laboratory/
   # - title: "About"
