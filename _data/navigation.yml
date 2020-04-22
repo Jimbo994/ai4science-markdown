@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /home/
   - title: "Laboratory"
-    url: /AI4Science/laboratory/
+    url: /laboratory/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
