@@ -4,6 +4,12 @@
   url: AI4Science/home/
 - title: "Laboratory"
   url: AI4Science/laboratory/
+- title: "Consortium"
+  url: AI4Science/consortium
+-title: "Events"
+  url: AI4Science/events
+-title: "Contact
+  url: AI4Science/contact
 #- title: "About"
 #  url: https://mmistakes.github.io/minimal-mistakes/about/
 #- title: "Sample Posts"
